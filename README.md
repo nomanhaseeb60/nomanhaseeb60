@@ -97,3 +97,7 @@
 
 
 ## Projects 
+
+### Zaragoza Parking app
+This app consumes Zaragoza api and allows us to track free parking areas for differnt types of user.
+![image](https://user-images.githubusercontent.com/60071427/213887112-d089c35c-963f-4633-8ce2-fca879dfc1bb.png)
